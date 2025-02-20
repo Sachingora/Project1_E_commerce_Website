@@ -12,6 +12,7 @@ Design Focus: Fully responsive for all devices.
 User Experience: Smooth navigation, attractive UI, and intuitive layout.
 
 **Features:**
+
 ✅ Multi-page structure (Home, Shop, Product Details, Cart, Checkout)
 
 ✅ Modern, stylish, and mobile-friendly design
